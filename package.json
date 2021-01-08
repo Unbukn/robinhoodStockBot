@@ -1,0 +1,27 @@
+{
+  "name": "robinhoodstockbot",
+  "version": "1.0.0",
+  "description": "repo used to NodeJS Framework to make trades with the private Robinhood API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unbukn/robinhoodStockBot.git"
+  },
+  "author": "James Hudgins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Unbukn/robinhoodStockBot/issues"
+  },
+  "homepage": "https://github.com/Unbukn/robinhoodStockBot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dot-env": "0.0.1",
+    "dotenv": "^8.2.0",
+    "robinhood": "^1.7.0",
+    "robinhood-api": "^1.2.3",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
