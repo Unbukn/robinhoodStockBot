@@ -1,2 +1,2 @@
 # robinhoodStockBot
-Repo used to make trades with the private Robinhood API
+Repo used to make trades with using selenuim-webdriver
